@@ -1,7 +1,3 @@
-<header align="center">
-    <img src="./github-header-image.webp" alt="About Me">
-</header>
-
 ## **Languages I'm Currently Studying:**
 <div>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="35" title="JavaScript" alt="JavaScript"/>
