@@ -34,12 +34,3 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" height="35" title="Kubernetes" alt="Kubernetes"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" height="35" title="Swift" alt="Swift"/>
 </div>
-
----
-
-<div align="center">
-    <p>Feel free to connect with me!</p>
-    <a href="https://www.linkedin.com/in/matthew-c-pendergast" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="35" title="LinkedIn" alt="LinkedIn"/>
-    </a>
-</div>
