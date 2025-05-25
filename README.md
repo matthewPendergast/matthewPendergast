@@ -5,7 +5,7 @@
 [![Tech Stack](https://skillicons.dev/icons?i=react,tailwind,nodejs,express,postgres)](https://skillicons.dev)
 
 ### **Past Experience With:**
-[![Skills](https://skillicons.dev/icons?i=html,css,sass,py,cpp,lua,godot)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=html,css,sass,postman,py,cpp,lua,godot)](https://skillicons.dev)
 
 ### **Future Learning Goals:**
-[![Goals](https://skillicons.dev/icons?i=jest,redis,docker,aws,azure,nextjs)](https://skillicons.dev)
+[![Goals](https://skillicons.dev/icons?i=jest,redis,docker,aws,prisma,nextjs,graphql,figma)](https://skillicons.dev)
