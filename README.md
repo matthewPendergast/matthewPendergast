@@ -1,4 +1,4 @@
-### **Main Stack & Languages:**
+### **Main Languages & Tech Stack:**
 [![Languages](https://skillicons.dev/icons?i=ts,js,react,tailwind,nodejs,express,postgres)](https://skillicons.dev)
 
 ### **Actively Learning:**
