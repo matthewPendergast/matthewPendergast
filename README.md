@@ -1,11 +1,11 @@
-### **Main Languages & Tech Stack:**
-[![Languages](https://skillicons.dev/icons?i=ts,js,react,tailwind,nodejs,express,postgres)](https://skillicons.dev)
+#### **Main Languages:**
+[![Languages](https://skillicons.dev/icons?i=ts,js&perline=6)](https://skillicons.dev)
 
-### **Actively Learning:**
-[![Learning](https://skillicons.dev/icons?i=docker,jest,redis,java)](https://skillicons.dev)
+#### **Primary Tech Stack:**
+[![Stack](https://skillicons.dev/icons?i=react,tailwind,nodejs,express,postgres&perline=6)](https://skillicons.dev)
 
-### **Experience With:**
-[![Skills](https://skillicons.dev/icons?i=html,css,sass,postman,py)](https://skillicons.dev)
+#### **Experience With:**
+[![Skills](https://skillicons.dev/icons?i=html,css,jest,postman,docker,py&perline=6)](https://skillicons.dev)
 
-### **Future Learning Goals:**
-[![Goals](https://skillicons.dev/icons?i=aws,prisma,nextjs,graphql,figma)](https://skillicons.dev)
+#### **Future Learning Goals:**
+[![Goals](https://skillicons.dev/icons?i=cs,dotnet,redis,aws,prisma,graphql&perline=6)](https://skillicons.dev)
