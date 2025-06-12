@@ -8,4 +8,4 @@
 [![Skills](https://skillicons.dev/icons?i=html,css,jest,postman,docker,py&perline=6)](https://skillicons.dev)
 
 #### **Future Learning Goals:**
-[![Goals](https://skillicons.dev/icons?i=cs,dotnet,redis,aws,prisma,graphql&perline=6)](https://skillicons.dev)
+[![Goals](https://skillicons.dev/icons?i=java,spring,redis,aws,prisma,graphql&perline=6)](https://skillicons.dev)
