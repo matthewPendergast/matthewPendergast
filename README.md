@@ -13,7 +13,7 @@
     <code>My Personal AI Usage Philosophy</code>
   </summary>
 
-  > Over the past few years I've sought guidance and read countless opinions regarding AI use in learning, and it's difficult to find widespread consensus. For that reason, I wanted to clearly state my own view (as of January 2026) since it can be very difficult to really figure out what kind of developer someone really is.
+  > Over the past few years I've sought guidance and read countless opinions regarding AI use in learning, and it's difficult to find widespread consensus. For that reason, I wanted to clearly state my own view (as of January 2026) since it can be very difficult to figure out what kind of developer someone really is.
   > 
   > Currently, the main AI tool I use is ChatGPT. In the past, I have used AI image generators in order to avoid trademark/copyright concerns for my little personal projects, but my goal moving forward is to use these very minimally. I also currently avoid tools that autocomplete code as you type, as it personally feels counter-productive to the learning process--but, I do realize and understand that it may be necessary to use tools like this for some jobs where speed or output is more important than individual deep understanding.
   > 
